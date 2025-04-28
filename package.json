@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "test": "jest --watchAll",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
   }
 }
